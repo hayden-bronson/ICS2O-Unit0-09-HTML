@@ -1,0 +1,53 @@
+body {
+  background-color: Black;
+  border-style: solid;
+  border-color: lightblue;
+  border-width: 7px;
+  text-align: center;
+}
+
+p {
+  color: lightblue;
+  font-family: cursive;
+  border-style: solid;
+  border-color: lightblue;
+  border-width: 7px;
+  text-align: center;
+}
+
+h1 {
+  color: lightblue;
+  margin-left: 20px;
+  font-family: cursive;
+  border: 15px lightblue;
+  border-style: solid;
+  border-color: lightblue;
+  border-width: 7px;
+  text-align: center;
+}
+
+table, td, th {
+  color: lightblue;
+  border-style: solid;
+  border-color: lightblue;
+  border-width: 7px;
+  text-align: center;
+}
+
+h2 {
+  color: lightblue;
+  margin-left: 20px;
+  font-family: cursive;
+   border-style: solid;
+  border-color: lightblue;
+  border-width: 7px;
+  text-align: center;
+}
+
+img {
+  border: 5px lightblue;
+   border-style: solid;
+  border-color: lightblue;
+  border-width: 7px;
+  text-align: center;
+}
